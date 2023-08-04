@@ -1,4 +1,4 @@
-# Friday Night Funkin' - Corrupted B Sides Engine
+# Corruption Reimagined B-Sides Engine Gripou Take
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 ## Installation:
@@ -34,7 +34,7 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 * Smokey - Sprite Atlas Support
 * Nebula the Zorua - LUA JIT Fork and some Lua reworks
 
-## Corruption B Sides Credits:
+## Corruption Reimagined B-Sides Credits:
 * Gripou - Director/Artist/Icon Artist/Sprite Editor
 * Manuelishere - Artist/Icon Artist
 * GabeReal - Sprite Editor
